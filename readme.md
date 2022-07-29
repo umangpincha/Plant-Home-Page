@@ -1,6 +1,6 @@
 # Project 9 Api Website
 
-![My Imge](./14.png)
+![My Imge](./thumbnail.png)
 
 
 #### By Umang Pincha
@@ -9,4 +9,4 @@
 - Learned about positions , flexbox.
 - It took me around 3 hours to complete this project.
 
-### Project Link: [My Website](https://dance-portfolio.netlify.app/)
+### Project Link: [My Website]()
