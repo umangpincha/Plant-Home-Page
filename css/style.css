@@ -1,0 +1,124 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  overflow: 0px;
+  font-family: "Abel";
+}
+
+#navbarMonstera {
+  /* border: 2px solid black; */
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  height: 70px;
+}
+#navFirst {
+  /* border: 2px solid hotpink; */
+  margin-top: 20px;
+}
+
+#navFirst img {
+  /* border: 2px solid hotpink; */
+  width: 90px;
+  margin-left: 20px;
+}
+#navMid {
+  /* border: 2px solid rebeccapurple; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -6%;
+}
+
+#navMid h4 {
+  /* border: 2px solid brown; */
+  margin-left: 100px;
+}
+
+#navEnd {
+  /* border: 2px solid fuchsia; */
+  display: flex;
+  margin-top: 20px;
+  margin-right: 6%;
+}
+
+#navEnd img {
+  /* border: 2px solid gold; */
+  display: flex;
+  margin-right: 20px;
+}
+
+#imgMain {
+  /* border: 2px solid gold;  */
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 400px;
+}
+
+#midWholePart1 {
+  /* border: 2px solid gold; */
+  width: 65%;
+  margin-left: 25px;
+  font-size: 17px;
+}
+
+#midWhole div ul li > h1 {
+  /* border: 2px solid red; */
+  margin-top: 1%;
+  width: 100%;
+  font-size: 150px;
+  gap: 100px;
+}
+
+#midWhole > #midWholePart1 > #midWholePart11 > div > ul :not(:first-child) {
+  /* border: 2px solid red; */
+  font-size: 15px;
+  font-weight: bold;
+  width: 52%;
+}
+#midWholePart121 div h1 {
+  margin-top: 12px;
+  background-color: green;
+  width: 20%;
+  border-radius: 18px;
+  padding: 6px;
+  width: 170px;
+  text-align: center;
+  color: #fff;
+  cursor: grab;
+}
+
+#midWholePart13 {
+  /* border: 3px solid black; */
+  width: 700px;
+  margin-left: -25px;
+  display: flex;
+  position: fixed;
+  bottom: -1;
+}
+
+.midWholePart13Parts > :nth-child(1) {
+  /* border: 2px solid blueviolet; */
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.midWholePart13Parts > :nth-child(2) {
+  /* border: 2px solid red; */
+  margin-left: 110px;
+  font-size: 10px;
+  margin-top: -50px;
+}
+
+
+#midWhole{
+  /* border: 2px solid red;  */
+  width: 1152px;
+  margin-left: 10px;
+
+}
+#midWholePart1{
+  /* border: 4px solid yellow; */
+  height: 366px;
+}
