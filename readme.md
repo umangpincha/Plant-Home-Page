@@ -1,4 +1,4 @@
-# Project 9 Api Website
+# Project 9 Plant Home Page
 
 ![My Imge](./thumbnail.png)
 
@@ -7,6 +7,6 @@
 
 - In this project I have gained lot of experience in HTML & CSS.
 - Learned about positions , flexbox.
-- It took me around 3 hours to complete this project.
+- It took me around 2.5 hours to complete this project.
 
-### Project Link: [My Website]()
+### Project Link: [My Website](https://plant-home-template.netlify.app/)
